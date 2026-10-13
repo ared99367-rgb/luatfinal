@@ -1,0 +1,892 @@
+{
+  "schemaVersion": 1,
+  "id": "vbhn-72-2026-vbhn-nd-bnnmt",
+  "nhom_id": "vbhn-72-2026-vbhn-nd-bnnmt",
+  "phien_ban": "2026",
+  "loai_van_ban": "vbhn",
+  "ten": "Xử phạt vi phạm hành chính trong lĩnh vực đo đạc và bản đồ",
+  "so_hieu": null,
+  "nam": 2026,
+  "linh_vuc": "Đo đạc và bản đồ",
+  "co_quan": "Bộ Nông nghiệp và Môi trường",
+  "ngay_ban_hanh": null,
+  "ngay_hieu_luc": null,
+  "tinh_trang": null,
+  "cau_truc": [
+    {
+      "loai": "chuong",
+      "so": "I",
+      "ten": "NHỮNG QUY ĐỊNH CHUNG",
+      "muc": [],
+      "dieu": [
+        {
+          "id": "d-001",
+          "so": "1",
+          "ten": "Phạm vi điều chỉnh",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Phạm vi điều chỉnh",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Nghị định này quy định về hành vi vi phạm hành chính, hình thức xử phạt, mức xử phạt, biện pháp khắc phục hậu quả; thẩm quyền xử phạt, thẩm quyền lập biên bản vi phạm hành chính trong lĩnh vực đo đạc và bản đồ.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Các hành vi vi phạm hành chính khác trong lĩnh vực đo đạc và bản đồ không được quy định tại Nghị định này thì áp dụng quy định tại các Nghị định của Chính phủ về xử phạt vi phạm hành chính trong lĩnh vực quản lý nhà nước khác có liên quan để xử phạt.",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-002",
+          "so": "2",
+          "ten": "Đối tượng áp dụng",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Đối tượng áp dụng",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Nghị định này áp dụng đối với tổ chức, cá nhân trong nước và tổ chức, cá nhân nước ngoài có hành vi vi phạm hành chính trong lĩnh vực đo đạc và bản đồ trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam; người có thẩm quyền lập biên bản và thẩm quyền xử phạt vi phạm hành chính, các cơ quan, tổ chức, cá nhân có liên quan đến việc xử phạt vi phạm hành chính trong lĩnh vực đo đạc và bản đồ theo quy định tại Nghị định này.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Các tổ chức bị xử phạt vi phạm hành chính tại Nghị định này bao gồm:\n        a)2 Doanh nghiệp được thành lập và hoạt động theo pháp luật Việt Nam;\n        b)  Đơn vị sự nghiệp công lập;\n        c)  Đơn vị sự nghiệp ngoài công lập;\n        d)  Hợp tác xã, Liên hiệp hợp tác xã;\n        đ)  Nhà thầu nước ngoài là tổ chức theo quy định của pháp luật về đấu thầu;\n        e)  Cơ quan nhà nước có hành vi vi phạm mà hành vi đó không thuộc nhiệm\nvụ quản lý nhà nước được giao;\n        g) Tổ chức nghề nghiệp hoạt động trong lĩnh vực đo đạc và bản đồ.\n        h)3 Chi nhánh, văn phòng đại diện của doanh nghiệp nước ngoài hoạt động\n\n        Căn cứ Luật Đo đạc và bản đồ số 27/2018/QH14 được sửa đổi, bổ sung một số điều bởi Luật số\n84/2025/QH15 và Luật số 146/2025/QH15;\n        Căn cứ Luật Đo lường số 04/2011/QH13 được sửa đổi, bổ sung một số điều bởi Luật số 35/2018/QH14\nvà Luật số 84/2025/QH15;\n        Theo đề nghị của Bộ trưởng Bộ Nông nghiệp và Môi trường;\n        Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 18/2020/NĐ-CP ngày 11\ntháng 02 năm 2020 của Chính phủ xử phạt vi phạm hành chính trong lĩnh vực đo đạc và bản đồ được sửa đổi,\nbổ sung một số điều bởi Nghị định số 04/2022/NĐ-CP ngày 06 tháng 01 năm 2022 của Chính phủ.”.\n        2 Điểm này được sửa đổi theo quy định tại khoản 1 Điều 4 của Nghị định số 04/2022/NĐ-CP, có hiệu lực\nkể từ ngày 06 tháng 01 năm 2022.\n        3 Điểm này được bổ sung theo quy định tại khoản 1 Điều 4 của Nghị định số 04/2022/NĐ-CP, có hiệu\nlực kể từ ngày 06 tháng 01 năm 2022.\n\n                                                    3\n\ntại Việt Nam;\n        i)4 Chi nhánh, văn phòng đại diện, địa điểm kinh doanh của tổ chức quy\nđịnh tại điểm a, điểm b khoản này.",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-003",
+          "so": "3",
+          "ten": "Hình thức xử phạt, biện pháp khắc phục hậu quả",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Hình thức xử phạt, biện pháp khắc phục hậu quả",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Hình thức xử phạt chính Đối với mỗi hành vi vi phạm hành chính trong lĩnh vực đo đạc và bản đồ, tổ chức, cá nhân vi phạm phải chịu một trong các hình thức xử phạt chính sau đây: a) Cảnh cáo; b) Phạt tiền. 2.5 Hình thức xử phạt bổ sung Tổ chức, cá nhân có hành vi vi phạm hành chính trong lĩnh vực đo đạc và bản đồ ngoài việc bị áp dụng hình thức xử phạt quy định tại khoản 1 Điều này, tùy theo tính chất, mức độ vi phạm có thể bị áp dụng một hoặc nhiều hình thức xử phạt bổ sung như sau: a) Tịch thu tang vật, phương tiện vi phạm hành chính; b) Trục xuất; c)6 Tước quyền sử dụng giấy phép hoạt động đo đạc và bản đồ, chứng chỉ hành nghề đo đạc và bản đồ từ 03 đến 09 tháng.",
+              "diem": []
+            },
+            {
+              "so": 3,
+              "noi_dung": "Biện pháp khắc phục hậu quả\n        Tổ chức, cá nhân có hành vi vi phạm hành chính trong lĩnh vực đo đạc và\nbản đồ, ngoài việc bị áp dụng hình thức xử phạt quy định tại khoản 1 và 2 Điều\nnày, tùy theo tính chất, mức độ vi phạm có thể bị áp dụng một hoặc nhiều biện\npháp khắc phục hậu quả sau đây:\n        a) Buộc khôi phục lại tình trạng ban đầu;\n        b)7 Buộc phá dỡ công trình hoặc phần công trình xây dựng;\n\n        c) Buộc hủy bỏ dữ liệu, sản phẩm đo đạc và bản đồ;\n        d) Buộc thu hồi dữ liệu, sản phẩm đo đạc và bản đồ, xuất bản phẩm bản đồ;\n        đ) Buộc cải chính thông tin, sửa chữa dữ liệu, sản phẩm đo đạc và bản đồ,\n\n        4 Điểm này được bổ sung theo quy định tại khoản 1 Điều 4 của Nghị định số 04/2022/NĐ-CP, có hiệu\nlực kể từ ngày 06 tháng 01 năm 2022.\n        5 Khoản này được sửa đổi, bổ sung theo quy định tại điểm a khoản 2 Điều 4 của Nghị định số 04/2022/NĐ-\nCP, có hiệu lực kể từ ngày 06 tháng 01 năm 2022.\n        6 Điểm này được bổ sung theo quy định tại khoản 1 Điều 1 của Nghị định số 228/2026/NĐ-CP, có hiệu\nlực kể từ ngày 15 tháng 8 năm 2026.\n        7 Điểm này được sửa đổi, bổ sung theo quy định tại điểm b khoản 2 Điều 4 của Nghị định số 04/2022/NĐ-\nCP, có hiệu lực kể từ ngày 06 tháng 01 năm 2022.\n\n                                                    4\n\nxuất bản phẩm bản đồ;\n        e) Buộc thực hiện việc giao nộp thông t          in, dữ liệu, sản phẩm đo đạc và        bản đồ;\n        g) Buộc nộp lại số lợi bất hợp pháp có được do thực hiện vi phạm hành chính;\n        h) Buộc tiêu hủy sản phẩm đo đạc và bản đồ, xuất bản phẩm bản đồ;\n        i)8 Buộc nộp lại giấy phép, chứng chỉ hành nghề cho cơ quan có thẩm quyền\nđã cấp giấy phép, chứng chỉ hành nghề;\n        k)9 Buộc hủy bỏ dữ liệu, sản phẩm đo đạc và bản đồ sau khi chủ đầu tư\nkiểm tra, đánh giá, kết luận dữ liệu, sản phẩm không đảm bảo chất lượng theo quy\nđịnh của pháp luật về đo đạc và bản đồ;\n        l)10 Buộc nộp lại số tiền bằng với giá trị tang vật, phương tiện vi phạm hành\nchính đã bị tiêu thụ, tẩu tán, tiêu hủy trái quy định của pháp luật.\n        4.11 Thi hành biện pháp khắc phục hậu quả buộc nộp lại giấy phép, chứng\nchỉ hành nghề\n        Tổ chức, cá nhân vi phạm hành chính nộp giấy phép, chứng chỉ hành nghề\ncho người có thẩm quyền xử phạt vi phạm hành chính. Trường hợp người có thẩm\nquyền ban hành quyết định xử phạt vi phạm hành chính không đồng thời là cơ\nquan, người có thẩm quyền cấp, trong thời hạn 05 ngày làm                      việc kể từ ngày ban\nhành quyết định xử phạt vi phạm hành              chính, người có thẩm quyền ban           hành quyết\nđịnh xử phạt vi phạm hành chín           h gửi Thông báo về việc áp dụng             biện pháp khắc\nphục hậu quả buộc nộp lại gi          ấy phép, chứng chỉ hành nghề và             giấy phép, chứng\nchỉ hành nghề đến cơ qua         n, người có thẩm quyền cấp (trừ             trường hợp     giấy phép\ndo cơ quan nước ngoài cấp).",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-004",
+          "so": "4",
+          "ten": "Mức phạt tiền và thẩm quyền phạt tiền",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Mức phạt tiền và thẩm quyền phạt tiền",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Mức phạt tiền tối đa đối với một hành vi vi phạm hành chính trong lĩnh vực đo đạc và bản đồ là 50.000.000 đồng đối với cá nhân và 100.000.000 đồng đối với tổ chức.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Mức phạt tiền quy định tại Chương II Nghị định này là mức phạt tiền đối với hành vi vi phạm hành chính của cá nhân, mức phạt tiền đối với hành vi vi phạm hành chính của tổ chức bằng 02 lần mức phạt tiền đối với cùng hành vi vi phạm hành chính của cá nhân.",
+              "diem": []
+            },
+            {
+              "so": 3,
+              "noi_dung": "Thẩm quyền phạt tiền của những ngư                ời được quy định từ Điều 14 đến\n\n        8 Điểm này được bổ sung theo quy định tại điểm b khoản 2 Điều 4 của Nghị định số 04/2022/NĐ-CP, có\nhiệu lực kể từ ngày 06 tháng 01 năm 2022.\n        9 Điểm này được bổ sung theo quy định tại khoản 2 Điều 1 của Nghị định số 228/2026/NĐ-CP, có hiệu\nlực kể từ ngày 15 tháng 8 năm 2026.\n        10 Điểm này được bổ sung theo quy định tại khoản 2 Điều 1 của Nghị định số 228/2026/NĐ-CP, có hiệu\nlực kể từ ngày 15 tháng 8 năm 2026.\n        11 Khoản này được bổ sung theo quy định tại điểm c khoản 2 Điều 4 của Nghị định số 04/2022/NĐ-CP,\ncó hiệu lực kể từ ngày 06 tháng 01 năm 2022.\n\n                                                 5\n\nĐiều 22 Nghị định này là thẩm quyền áp dụng đối với một hành vi vi phạm hành\nchính của cá nhân; đối với hành vi vi phạm của tổ chức, người có thẩm quyền\nđược phạt tiền bằng 02 lần mức phạt tiền đối với cá nhân.",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-005",
+          "so": "4a",
+          "ten": "Thời hiệu xử phạt vi phạm hành chính, các hành vi vi phạm",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Thời hiệu xử phạt vi phạm hành chính, các hành vi vi phạm đã kết thúc, các hành vi vi phạm đang thực hiện12 Thời hiệu xử phạt vi phạm hành chính, thời điểm để tính thời hiệu xử phạt vi phạm hành chính, các hành vi vi phạm được xác định là đã kết thúc và thời điểm chấm dứt hành vi vi phạm, các hành vi vi phạm đang được thực hiện trong lĩnh vực đo đạc và bản đồ được quy định như sau:",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Thời hiệu xử phạt vi phạm hành chính trong lĩnh vực đo đạc và bản đồ là 01 năm.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Các hành vi vi phạm được xác định là đã kết thúc và thời điểm chấm dứt\nhành vi vi phạm như sau:\n       Thời điểm được xác định là đã kết thúc hành vi vi phạm là thời điểm mà tổ\nchức, cá nhân chấm dứt hành vi vi phạm và thời điểm đó được thể hiện rõ trong\ncác Hồ sơ, Tài liệu, Báo cáo được xác lập theo quy định pháp luật về đo đạc và\nbản đồ đối với các hành vi vi phạm sau đây:\n       a)   Hành vi nộp chậm hoặc không nộp báo cáo về hoạt động đo đạc và bản\nđồ, báo cáo khi có sự thay đổi người phụ trách kỹ thuật hoặc khi có sự thay đổi\nđịa chỉ trụ sở chính;\n       b)   Hành vi tẩy xóa, sửa chữa làm sai lệch nội dung giấy phép hoạt động\nđo đạc và bản đồ, chứng chỉ hành nghề đo đạc và bản đồ;\n       c)   Hành vi giả mạo, làm sai lệch dữ liệu, sản phẩm đo đạc và bản đồ trong\nthực hiện đề án, dự án, thiết kế kỹ thuật - dự toán, nhiệm vụ đo đạc và bản đồ;\n       d)   Hành vi giả mạo, làm sai lệch dữ liệu, sản phẩm đo đạc và bản đồ trong\nquá trình kiểm tra chất lượng sản phẩm đo đạc và bản đồ;\n       đ) Thực hiện kiểm tra chất lượng sản phẩm đo đạc và bản đồ cấp chủ đầu\ntư khi nhà thầu, tổ chức, cá nhân chưa thực hiện đầy đủ việc kiểm tra chất lượng\nsản phẩm cấp đơn vị thi công theo quy định của pháp luật về đo đạc và bản đồ;\n       e)   Kiểm tra chất lượng sản phẩm đo đạc và bản đồ không đầy đủ nội dung,\nmức kiểm tra theo quy định của pháp luật về đo đạc và bản đồ;\n       g)   Hành vi không giao nộp thông tin, dữ liệu, sản phẩm đo đạc và bản đồ\nđể lưu trữ theo quy định của pháp luật về đo đạc và bản đồ;\n\n        12 Điều này được bổ sung theo quy định tại khoản 3 Điều 4 của Nghị định số 04/2022/NĐ-CP, có hiệu\nlực kể từ ngày 06 tháng 01 năm 2022.\n\n                                                 6\n       h)13 Hành vi không thực hiện kiểm định, hiệu chuẩn, thử nghiệm phương\ntiện đo theo quy định của pháp luật về đo lường và pháp luật về đo đạc và bản đồ;\n       i) Trường hợp hành vi vi phạm hành chính quy định tại các điểm a, b, c, d,\nđ, e, g và h khoản này mà người có hành vi vi phạm không chứng minh được thời\nđiểm kết thúc hành vi vi phạm thì được xác định là hành vi vi phạm còn trong thời\nhiệu xử phạt vi phạm hành chính.",
+              "diem": []
+            },
+            {
+              "so": 3,
+              "noi_dung": "Các hành vi vi phạm hành chính về đo đạc và bản đồ quy định tại Nghị định này mà không thuộc trường hợp quy định tại khoản 2 Điều này được xác định là hành vi vi phạm đang được thực hiện. Chương II HÀNH VI VI PHẠM HÀNH CHÍNH TRONG LĨNH VỰC ĐO ĐẠC VÀ BẢN ĐỒ, HÌNH THỨC XỬ PHẠT, MỨC XỬ PHẠT VÀ BIỆN PHÁP KHẮC PHỤC HẬU QUẢ ĐỐI VỚI HÀNH VI VI PHẠM HÀNH CHÍNH",
+              "diem": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "loai": "chuong",
+      "so": "II",
+      "ten": "HÀNH VI VI PHẠM HÀNH CHÍNH TRONG LĨNH VỰC ĐO ĐẠC",
+      "muc": [],
+      "dieu": [
+        {
+          "id": "d-006",
+          "so": "5",
+          "ten": "Vi phạm quy định về điều kiện kinh doanh dịch vụ đo đạc và",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Vi phạm quy định về điều kiện kinh doanh dịch vụ đo đạc và bản đồ",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với một trong các hành vi sau: a) Tẩy xóa, sửa chữa làm sai lệch nội dung chứng chỉ hành nghề đo đạc và bản đồ; b) Hành nghề đo đạc và bản đồ không đúng với nội dung ghi trong chứng chỉ hành nghề.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với một trong các\nhành vi sau:\n       a) Làm sai lệch nội dung trong Hồ sơ đề nghị cấp giấy phép hoạt động đo\nđạc và bản đồ;\n       b)14 Hành nghề đo đạc và bản đồ không có chứng chỉ hành nghề hoặc hành\nnghề đo đạc và bản đồ trong thời gian bị buộc nộp lại chứng chỉ hành nghề cho\ncơ quan có thẩm quyền đã cấp chứng chỉ hành nghề đó;\n       c) Hoạt động đo đạc và bản đồ khi không duy trì các điều kiện theo quy\nđịnh để được cấp giấy phép hoạt động đo đạc và bản đồ.\n\n       13 Điểm này được sửa đổi, bổ sung theo quy định tại Điều 2 của Nghị định số 228/2026/NĐ-CP, có hiệu\nlực kể từ ngày 15 tháng 8 năm 2026.\n       14  Điểm này được sửa đổi, bổ sung theo quy định tại điểm a khoản 4 Điều 4 của Nghị định số 04/2022/NĐ-\nCP, có hiệu lực kể từ ngày 06 tháng 01 năm 2022; được sửa đổi, bổ sung theo quy định tại khoản 1 Điều 3 của\nNghị định số 228/2026/NĐ-CP, có hiệu lực kể từ ngày 15 tháng 8 năm 2026.\n\n                                                    7",
+              "diem": []
+            },
+            {
+              "so": 3,
+              "noi_dung": "Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với một trong các\nhành vi sau:\n        a) Hoạt động đo đạc và bản đồ không đúng với nội dung giấy phép hoạt\nđộng đo đạc và bản đồ;\n        b) Tẩy xóa, sửa chữa làm sai lệch nội dung giấy phép hoạt động đo đạc và\nbản đồ;\n        c) Hoạt động đo đạc và bản đồ khi giấy phép hoạt động đo đạc và bản đồ\nhết thời hạn.\n        4.15 Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với hành vi hoạt\nđộng đo đạc và bản đồ không có giấy phép hoặc hoạt động đo đạc và bản đồ trong\nthời gian bị buộc nộp lại giấy phép cho cơ quan có thẩm quyền đã cấp giấy\nphép đó.\n        5.16 Hình thức xử phạt bổ sung:\n\n        a) Tịch thu tang vật, phương tiện vi phạm hành chính đối với hành vi quy\nđịnh tại điểm a khoản 2 Điều này;\n        b) Tước quyền sử dụng giấy phép hoạt động đo đạc và bản đồ, chứng chỉ\nhành nghề đo đạc và bản đồ từ 03 tháng đến 09 tháng đối với hành vi quy định tại\nđiểm b khoản 1, điểm a khoản 3 Điều này.\n        6.17 Biện pháp khắc phục hậu quả:\n\n        a) Buộc nộp lại giấy phép, chứng chỉ hành nghề cho cơ quan có thẩm quyền\nđã cấp giấy phép, chứng chỉ hành nghề do thực hiện hành vi quy định tại điểm a\nkhoản 1, điểm a và điểm c khoản 2, điểm b khoản 3 Điều này;\n        Trường hợp đối với hành vi hoạt động đo đạc và bản đồ khi không duy trì\ncác điều kiện theo quy định để được cấp giấy phép hoạt động đo đạc và bản đồ,\ntrong thời gian 90 ngày (3 tháng) tổ chức bổ sung chứng minh có đủ điều kiện để\nduy trì hoạt động đo đạc và bản đồ thì cơ quan có thẩm quyền cấp giấy phép trả\nlại cho tổ chức giấy phép hoạt động đo đạc và bản đồ.\n        b) Buộc hủy bỏ dữ liệu, sản phẩm đo đạc và bản đồ do thực hiện hành vi\nquy định tại điểm b khoản 2 và khoản 4 Điều này mà không đảm bảo chất lượng\ntheo quy định của pháp luật về đo đạc và bản đồ.\n\n        15 Khoản này được sửa đổi, bổ sung theo quy định tại   điểm b khoản 4 Điều 4    của Nghị định số\n04/2022/NĐ-CP, có hiệu lực kể từ ngày 06 tháng 01 năm 2022; được sửa đổi, bổ sung theo quy định tại khoản 2\nĐiều 3 của Nghị định số 228/2026/NĐ-CP, có hiệu lực kể từ ngày 15 tháng 8 năm 2026.\n        16 Khoản này được sửa đổi, bổ sung theo quy định tại    điểm c khoản 4  Điều 4  của Nghị định số\n04/2022/NĐ-CP, có hiệu lực kể từ ngày 06 tháng 01 năm 2022; được sửa đổi, bổ sung theo quy định tại khoản 3\nĐiều 3 của Nghị định số 228/2026/NĐ-CP, có hiệu lực kể từ ngày 15 tháng 8 năm 2026.\n        17 Khoản này được sửa đổi, bổ sung theo quy định tại điểm d khoản 4     Điều 4  của Nghị định số\n04/2022/NĐ-CP, có hiệu lực kể từ ngày 06 tháng 01 năm 2022.\n\n                                                  8",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-007",
+          "so": "6",
+          "ten": "Vi phạm quy định trong xây dựng, sử dụng, bảo vệ công trình",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Vi phạm quy định trong xây dựng, sử dụng, bảo vệ công trình hạ tầng đo đạc",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với hành vi không báo cáo Ủy ban nhân dân cấp xã khi sử dụng mốc đo đạc.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với một trong các hành vi sau: a) Xây dựng, sửa chữa, cải tạo công trình kiến trúc trong phạm vi hành lang bảo vệ công trình hạ tầng đo đạc không tuân thủ quy định của pháp luật về đất đai đối với hành lang bảo vệ an toàn công trình và pháp luật khác có liên quan; b) Tự ý di dời, phá dỡ mốc đo đạc khi không có sự chấp thuận của cơ quan quản lý mốc đo đạc đó.",
+              "diem": []
+            },
+            {
+              "so": 3,
+              "noi_dung": "Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với hành vi phá hủy, làm hư hỏng mốc đo đạc.",
+              "diem": []
+            },
+            {
+              "so": 4,
+              "noi_dung": "Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với hành vi đầu tư xây dựng mạng lưới các trạm định vị vệ tinh có mục đích kinh doanh không theo danh mục dự án đầu tư do các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh khuyến khích đầu tư.",
+              "diem": []
+            },
+            {
+              "so": 5,
+              "noi_dung": "Biện pháp khắc phục hậu quả: a) Buộc khôi phục lại tình trạng ban đầu đối với các hành vi quy định tại điểm b khoản 2 và khoản 3 Điều này; b)18 Buộc phá dỡ công trình hoặc phần công trình xây dựng đối với hành vi quy định tại điểm a khoản 2 Điều này; c)19 Buộc phá dỡ trạm định vị vệ tinh đối với hành vi quy định tại khoản 4 Điều này.",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-008",
+          "so": "7",
+          "ten": "Vi phạm quy định trong lập, thực hiện đề án, dự án, thiết kế kỹ",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Vi phạm quy định trong lập, thực hiện đề án, dự án, thiết kế kỹ thuật - dự toán, nhiệm vụ đo đạc và bản đồ",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Phạt tiền từ 1.000.000 đồng đến 3.000.000 đồng đối với hành vi không sử dụng, thể hiện không chính xác địa danh đã được chuẩn hóa và công bố trong hoạt động đo đạc và bản đồ.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với một trong các\nhành vi sau:\n        a) Sử dụng thông tin, dữ liệu, sản phẩm đo đạc và bản đồ không có nguồn\ngốc rõ ràng trong lập, thực hiện đề án, dự án, thiết kế kỹ thuật - dự toán, nhiệm\n\n        18 Điểm này được sửa đổi, bổ sung theo quy định tại khoản 5 Điều 4 của Nghị định số 04/2022/NĐ-CP,\ncó hiệu lực kể từ ngày 06 tháng 01 năm 2022.\n        19 Điểm này được sửa đổi, bổ sung theo quy định tại khoản 5 Điều 4 của Nghị định số 04/2022/NĐ-CP,\ncó hiệu lực kể từ ngày 06 tháng 01 năm 2022.\n\n                                                   9\n\nvụ đo đạc và bản đồ;\n        b)20 Không thực hiện kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo\ntheo quy định của pháp luật về đo lường và pháp luật về đo đạc và bản đồ;\n        c) Sử dụng phương tiện đo không đạt chỉ tiêu kỹ thuật theo quy định trong\nthực hiện đề án, dự án, thiết kế kỹ thuật - dự toán, nhiệm vụ đo đạc và bản đồ;\n        d) Thể hiện không chính xác đường địa giới hành chính trên thông tin, dữ\nliệu, sản phẩm đo đạc và bản đồ trong thực hiện đề án, dự án, thiết kế kỹ thuật -\ndự toán, nhiệm vụ đo đạc và bản đồ.",
+              "diem": []
+            },
+            {
+              "so": 3,
+              "noi_dung": "Phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng đối với một trong các hành vi sau: a) Giả mạo, làm sai lệch dữ liệu, sản phẩm đo đạc và bản đồ trong thực hiện đề án, dự án, thiết kế kỹ thuật - dự toán, nhiệm vụ đo đạc và bản đồ; b) Thể hiện không chính xác đường biên giới quốc gia, chủ quyền lãnh thổ trên thông tin, dữ liệu, sản phẩm đo đạc và bản đồ trong thực hiện đề án, dự án, thiết kế kỹ thuật - dự toán, nhiệm vụ đo đạc và bản đồ; c) Không sử dụng thông tin, dữ liệu, sản phẩm đo đạc và bản đồ cơ bản trong lập, thực hiện đề án, dự án, thiết kế kỹ thuật - dự toán, nhiệm vụ đo đạc và bản đồ chuyên ngành; d) Không sử dụng dữ liệu không gian địa lý quốc gia trong thực hiện các nhiệm vụ quy hoạch, xây dựng kế hoạch, chương trình, dự án phát triển kinh tế - xã hội, quốc phòng, an ninh và các hoạt động khác phục vụ quản lý của Nhà nước. đ)21 Không tuân thủ đầy đủ quy trình, giải pháp kỹ thuật công nghệ được quy định tại quy chuẩn kỹ thuật quốc gia, quy định kỹ thuật, thiết kế kỹ thuật - dự toán được phê duyệt khi thực hiện đề án, dự án, nhiệm vụ đo đạc và bản đồ. 4.22 (được bãi bỏ)",
+              "diem": []
+            },
+            {
+              "so": 5,
+              "noi_dung": "Biện pháp khắc phục hậu quả:\n        a) Buộc hủy bỏ dữ liệu, sản phẩm đo đạc và bản đồ đối với hành vi quy\nđịnh tại điểm b, điểm c khoản 2, điểm a khoản 3 Điều này;\n        b) Buộc cải chính thông tin, sửa chữa dữ liệu, sản phẩm đo đạc và bản đồ,\nxuất bản phẩm bản đồ đối với hành vi quy định tại khoản 1, điểm d khoản 2, điểm\nb khoản 3 Điều này.\n\n        20 Điểm này được sửa đổi, bổ sung theo quy định tại khoản 1 Điều 4 của Nghị định số 228/2026/NĐ-CP,\ncó hiệu lực kể từ ngày 15 tháng 8 năm 2026.\n        21 Điểm này được bổ sung theo quy định tại khoản 2 Điều 4 của Nghị định số 228/2026/NĐ-CP, có hiệu\nlực kể từ ngày 15 tháng 8 năm 2026.\n        22 Khoản này được bãi bỏ theo quy định tại khoản 6 Điều 4 của Nghị định số 04/2022/NĐ-CP, có hiệu\nlực kể từ ngày 06 tháng 01 năm 2022.\n\n                                                   10\n        c)23 Buộc nộp lại giấy phép, chứng chỉ hành nghề cho cơ quan có thẩm\nquyền đã cấp giấy phép, chứng chỉ hành nghề do thực hiện hành vi quy định tại\nđiểm a khoản 3 Điều này.\n        d)24 Buộc hủy bỏ dữ liệu, sản phẩm đo đạc và bản đồ do thực hiện hành vi\nquy định tại điểm đ khoản 3 Điều này sau khi chủ đầu tư kiểm tra, đánh giá, kết\nluận dữ liệu, sản phẩm không đảm bảo chất lượng theo quy định của pháp luật về\nđo đạc và bản đồ.",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-009",
+          "so": "8",
+          "ten": "Vi phạm quy định về kiểm tra chất lượng sản phẩm đo đạc và",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Vi phạm quy định về kiểm tra chất lượng sản phẩm đo đạc và bản đồ",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với một trong các hành vi sau: a)25 Không thực hiện kiểm định, hiệu chuẩn, thử nghiệm phương tiện đo theo quy định của pháp luật về đo lường và pháp luật về đo đạc và bản đồ; b) Sử dụng phương tiện đo không đạt chỉ tiêu kỹ thuật để kiểm tra chất lượng sản phẩm đo đạc và bản đồ; c) Thực hiện kiểm tra chất lượng sản phẩm đo đạc và bản đồ cấp chủ đầu tư khi nhà thầu, tổ chức, cá nhân chưa thực hiện đầy đủ việc kiểm tra chất lượng sản phẩm cấp đơn vị thi công theo quy định của pháp luật về đo đạc và bản đồ.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với một trong các\nhành vi sau:\n        a) Kiểm tra chất lượng sản phẩm đo đạc và bản đồ không đầy đủ nội dung,\nmức kiểm tra theo quy định của pháp luật về đo đạc và bản đồ;\n        b) Giả mạo, làm sai lệch dữ liệu, sản phẩm đo đạc và bản đồ trong quá trình\n kiểm tra chất lượng sản phẩm đo đạc và bản đồ.\n        3.26 (được bãi bỏ)\n        4.27 Biện pháp khắc phục hậu quả:\n        a) Buộc hủy bỏ dữ liệu, sản phẩm đo đạc và bản đồ do thực hiện hành vi\nquy định tại điểm a, điểm b khoản 1, điểm b khoản 2 Điều này;\n        b) Buộc nộp lại giấy phép, chứng chỉ hành nghề cho cơ quan có thẩm quyền\n\n        23 Điểm này được bổ sung theo quy định tại khoản 6 Điều 4 của Nghị định số 04/2022/NĐ-CP, có hiệu\nlực kể từ ngày 06 tháng 01 năm 2022.\n        24 Điểm này được bổ sung theo quy định tại khoản 3 Điều 4 của Nghị định số 228/2026/NĐ-CP, có hiệu\nlực kể từ ngày 15 tháng 8 năm 2026.\n        25 Điểm này được sửa đổi, bổ sung theo quy định tại Điều 5 của Nghị định số 228/2026/NĐ-CP, có hiệu\nlực kể từ ngày 15 tháng 8 năm 2026.\n        26 Khoản này được bãi bỏ theo quy định tại khoản 7 Điều 4 của Nghị định số 04/2022/NĐ-CP, có hiệu\nlực kể từ ngày 06 tháng 01 năm 2022.\n        27 Khoản này được sửa đổi, bổ sung theo quy định tại khoản 7 Điều 4 của Nghị định số 04/2022/NĐ-CP,\ncó hiệu lực kể từ ngày 06 tháng 01 năm 2022.\n\n                                               11\n\nđã cấp giấy phép, chứng chỉ hành nghề đó do thực hiện hành vi quy định tại điểm\nb khoản 2 Điều này.",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-010",
+          "so": "9",
+          "ten": "Vi phạm quy định báo cáo về hoạt động đo đạc và bản đồ",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Vi phạm quy định báo cáo về hoạt động đo đạc và bản đồ",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với hành vi không báo cáo cơ quan cấp phép hoạt động đo đạc và bản đồ khi có sự thay đổi người phụ trách kỹ thuật hoặc khi có sự thay đổi địa chỉ trụ sở chính.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi không thực hiện báo cáo về hoạt động đo đạc và bản đồ theo quy định của pháp luật về đo đạc và bản đồ.",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-011",
+          "so": "10",
+          "ten": "Vi phạm quy định về giao nộp, cung cấp, khai thác, sử dụng",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Vi phạm quy định về giao nộp, cung cấp, khai thác, sử dụng và trao đổi thông tin, dữ liệu, sản phẩm đo đạc và bản đồ",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng với một trong các hành vi sau: a) Sử dụng thông tin, dữ liệu, sản phẩm đo đạc và bản đồ để thực hiện đề án, dự án, thiết kế kỹ thuật - dự toán, nhiệm vụ đo đạc và bản đồ không đúng như đã ghi trong phiếu yêu cầu cung cấp thông tin, dữ liệu, sản phẩm đo đạc và bản đồ; b) Trao đổi, cung cấp thông tin, dữ liệu, sản phẩm đo đạc và bản đồ là tài sản công với tổ chức, cá nhân trong hoặc ngoài nước không đúng quy định của pháp luật về đo đạc và bản đồ;",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Phạt tiền từ 20.000.000 đồng đến 30.000.000 đồng đối với hành vi không giao nộp thông tin, dữ liệu, sản phẩm đo đạc và bản đồ để lưu trữ theo quy định của pháp luật về đo đạc và bản đồ.",
+              "diem": []
+            },
+            {
+              "so": 3,
+              "noi_dung": "Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với hành vi trao đổi quốc tế, xuất nhập khẩu thông tin, dữ liệu, sản phẩm đo đạc và bản đồ liên quan đến chủ quyền lãnh thổ quốc gia mà không thể hiện hoặc thể hiện không đúng chủ quyền, biên giới quốc gia theo quy định của pháp luật về đo đạc và bản đồ.",
+              "diem": []
+            },
+            {
+              "so": 4,
+              "noi_dung": "Hình thức xử phạt bổ sung: a) Tịch thu tang vật, phương tiện vi phạm hành chính đối với hành vi quy định tại khoản 3 Điều này; b) Cá nhân nước ngoài có hành vi vi phạm hành chính quy định tại khoản 3 Điều này, thì tùy theo mức độ vi phạm có thể bị áp dụng hình thức xử phạt trục xuất khỏi nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+              "diem": []
+            },
+            {
+              "so": 5,
+              "noi_dung": "Biện pháp khắc phục hậu quả:\n       a) Buộc nộp lại số lợi bất hợp pháp có được do thực hiện hành vi quy định\ntại điểm b khoản 1 Điều này;\n       b) Buộc thực hiện việc giao nộp thông tin, dữ liệu, sản phẩm đo đạc và bản\n\n                                                12\n\nđồ theo quy định đối với hành vi quy định tại khoản 2 Điều này;\n       c) Buộc thu hồi dữ liệu, sản phẩm đo đạc và bản đồ, xuất bản phẩm bản đồ\nđối với hành vi quy định tại khoản 3 Điều này;\n       d) Buộc tiêu hủy sản phẩm đo đạc và b           ản đồ, xuất bản phẩm bản đồ đối          với\nhành vi quy định tại khoản 3 Điều này.",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-012",
+          "so": "11",
+          "ten": "Vi phạm quy định về xuất bản, lưu hành sản phẩm đo đạc và",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Vi phạm quy định về xuất bản, lưu hành sản phẩm đo đạc và bản đồ, xuất bản phẩm bản đồ",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với hành vi xuất bản, lưu hành sản phẩm đo đạc và bản đồ, xuất bản phẩm bản đồ thể hiện không đúng địa giới hành chính theo quy định của pháp luật về đo đạc và bản đồ.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Phạt tiền từ 30.000.000 đồng đến 40.000.000 đồng đối với hành vi lưu hành sản phẩm đo đạc và bản đồ, xuất bản phẩm bản đồ liên quan đến chủ quyền lãnh thổ quốc gia mà không thể hiện hoặc thể hiện không đúng chủ quyền, biên giới quốc gia theo quy định của pháp luật về đo đạc và bản đồ.",
+              "diem": []
+            },
+            {
+              "so": 3,
+              "noi_dung": "Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với hành vi xuất bản sản phẩm đo đạc và bản đồ, xuất bản phẩm bản đồ liên quan đến chủ quyền lãnh thổ quốc gia mà không thể hiện hoặc thể hiện không đúng chủ quyền, biên giới quốc gia theo quy định của pháp luật về đo đạc và bản đồ.",
+              "diem": []
+            },
+            {
+              "so": 4,
+              "noi_dung": "Hình thức xử phạt bổ sung: a) Tịch thu tang vật, phương tiện vi phạm hành chính đối với hành vi quy định tại khoản 2, 3 Điều này; b) Cá nhân nước ngoài có hành vi vi phạm hành chính quy định tại khoản 2, 3 Điều này, thì tùy theo mức độ vi phạm có thể bị áp dụng hình thức xử phạt trục xuất khỏi nước Cộng hòa xã hội chủ nghĩa Việt Nam.",
+              "diem": []
+            },
+            {
+              "so": 5,
+              "noi_dung": "Biện pháp khắc phục hậu quả:\n       a) Buộc cải chính thông tin, sửa chữa dữ liệu, sản phẩm đo đạc và bản đồ,\nxuất bản phẩm bản đồ đối với hành vi quy định tại khoản 1 và khoản 2 Điều này;\n       b) Buộc thu hồi dữ liệu, sản phẩm đo đạc và bản đồ, xuất bản phẩm bản đồ\nđối với hành vi quy định tại khoản 2 và khoản 3 Điều này;\n       c)28 Buộc tiêu hủy sản phẩm đo đạc và bản đồ, xuất bản phẩm bản đồ đối\nvới hành vi quy định tại khoản 2 và khoản 3 Điều này;\n       d) Buộc nộp lại số lợi bất hợp pháp có được đối với hành vi quy định tại\nkhoản 2, khoản 3 Điều này.\n\n        28 Điểm này được sửa đổi, bổ sung theo quy định tại khoản 8 Điều 4 của Nghị định số 04/2022/NĐ-CP,\ncó hiệu lực kể từ ngày 06 tháng 01 năm 2022.\n\n                                                  13\n        đ)29 Buộc nộp lại giấy phép, chứng chỉ hành nghề cho cơ quan có thẩm\nquyền đã cấp giấy phép, chứng chỉ hành nghề đó do thực hiện hành vi quy định\ntại khoản 2, khoản 3 Điều này.",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-013",
+          "so": "12",
+          "ten": "Hành vi cản trở hoạt động đo đạc và bản đồ hợp pháp của cơ",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Hành vi cản trở hoạt động đo đạc và bản đồ hợp pháp của cơ quan, tổ chức, cá nhân",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với hành vi cản trở tổ chức, cá nhân sử dụng mốc đo đạc khi thực hiện hoạt động đo đạc hợp pháp.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với hành vi cản trở hoạt động đo đạc và bản đồ hợp pháp của cơ quan, tổ chức, cá nhân.",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-014",
+          "so": "13",
+          "ten": "Hành vi lợi dụng hoạt động đo đạc và bản đồ để xâm hại lợi",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Hành vi lợi dụng hoạt động đo đạc và bản đồ để xâm hại lợi ích quốc gia, dân tộc, quyền và lợi ích hợp pháp của tổ chức, cá nhân",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Phạt tiền từ 10.000.000 đồng đến 20.000.000 đồng đối với hành vi lợi dụng hoạt động đo đạc và bản đồ để xâm phạm quyền và lợi ích hợp pháp của tổ chức, cá nhân.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Phạt tiền từ 40.000.000 đồng đến 50.000.000 đồng đối với hành vi lợi\ndụng hoạt động đo đạc và bản đồ để xâm phạm lợi ích quốc gia, dân tộc.\n        3.30 Hình thức xử phạt bổ sung:\n        a) Tịch thu tang vật, phương tiện vi phạm hành chính đối với hành vi quy\nđịnh tại khoản 2 Điều này;\n        b) Cá nhân nước ngoài có hành vi vi phạm hành chính quy định tại khoản\n2 Điều này, thì tùy theo mức độ vi phạm có thể bị áp dụng hình thức xử phạt trục\nxuất khỏi nước Cộng hòa xã hội chủ nghĩa Việt Nam.\n        4.31 Biện pháp khắc phục hậu quả:\n        a) Buộc nộp lại số lợi bất hợp pháp đối với hành vi quy định tại khoản 2\nĐiều này;\n        b) Buộc nộp lại giấy phép, chứng chỉ hành nghề cho cơ quan có thẩm quyền\nđã cấp giấy phép, chứng chỉ hành nghề đó do thực hiện hành vi quy định tại khoản\n2 Điều này.\n        c)32 Buộc nộp lại số tiền bằng với giá trị tang vật, phương tiện vi phạm hành\nchính đã bị tiêu thụ, tẩu tán, tiêu hủy trái quy định của pháp luật đối với hành vi\nquy định tại khoản 2 Điều này.\n\n        29 Điểm này được bổ sung theo quy định tại khoản 8 Điều 4 của Nghị định số 04/2022/NĐ-CP, có hiệu\nlực kể từ ngày 06 tháng 01 năm 2022.\n        30 Khoản này được sửa đổi, bổ sung theo quy định tại khoản 9 Điều 4 của Nghị định số 04/2022/NĐ-CP,\ncó hiệu lực kể từ ngày 06 tháng 01 năm 2022.\n        31 Khoản này được sửa đổi, bổ sung theo quy định tại khoản 9 Điều 4 của Nghị định số 04/2022/NĐ-CP,\ncó hiệu lực kể từ ngày 06 tháng 01 năm 2022.\n        32 Điểm này được bổ sung theo quy định tại Điều 6 của Nghị định số 228/2026/NĐ-CP, có hiệu lực kể từ\nngày 15 tháng 8 năm 2026.\n\n                                                     14\n\n                                               Chương III\n               THẨM QUYỀN XỬ PHẠT VI PHẠM HÀNH CHÍNH,\n  LẬP BIÊN BẢN VI PHẠM HÀNH CHÍNH VÀ ÁP DỤNG BIỆN PHÁP\n    KHẮC PHỤC HẬU QUẢ TRONG LĨNH VỰC ĐO ĐẠC VÀ BẢN ĐỒ",
+              "diem": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "loai": "chuong",
+      "so": "III",
+      "ten": "THẨM QUYỀN XỬ PHẠT VI PHẠM HÀNH CHÍNH,",
+      "muc": [],
+      "dieu": [
+        {
+          "id": "d-015",
+          "so": "14",
+          "ten": "Thẩm quyền xử phạt vi phạm hành chính của Chủ tịch Ủy",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Thẩm quyền xử phạt vi                    phạm hành chính của Chủ tịch Ủy\nban nhân dân các cấp\n        Chủ tịch Ủy ban nhân dân có thẩm quyền xử                      phạt vi phạm hành chính đối\nvới các hành vi vi phạm hành chính trong lĩnh vực đo đạc và bản đồ quy định tại\nChương II Nghị định này, cụ thể như sau:33\n        1.34 Chủ tịch Ủy ban nhân dân cấp xã có quyền:\n        a) Phạt cảnh cáo;\n        b) Phạt tiền đến 25.000.000 đồng;\n        c) Tước quyền sử dụng giấy phép hoạt động đo đạc và bản đồ, chứng chỉ\nhành nghề đo đạc và bản đồ từ 03 tháng đến 09 tháng;\n        d) Tịch thu tang vật, phương tiện vi phạm hành chính;\n        đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị\nđịnh này.\n        2.35 (được bãi bỏ)\n        3.36 Chủ tịch Ủy ban nhân dân cấp tỉnh có quyền:\n        a) Phạt cảnh cáo;\n        b) Phạt tiền đến 50.000.000 đồng;\n        c) Tước quyền sử dụng giấy phép hoạt động đo đạc và bản đồ, chứng chỉ\nhành nghề đo đạc và bản đồ từ 03 tháng đến 09 tháng;\n        d) Tịch thu tang vật, phương tiện vi phạm hành chính;\n        đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị\nđịnh này.\n\n        33 Đoạn “Chủ tịch Ủy ban nhân dân có thẩm quyền xử phạt vi phạm hành chính đối với các hành vi vi\nphạm hành chính trong lĩnh vực đo đạc và bản đồ quy định tại Chương II Nghị định này, cụ thể theo quy định tại\nkhoản 1, 2 và 3 Điều này.” được sửa đổi, bổ sung bởi đoạn “Chủ tịch Ủy ban nhân dân có thẩm quyền xử phạt vi\nphạm hành chính đối với các hành vi vi phạm hành chính trong lĩnh vực đo đạc và bản đồ quy định tại Chương II\nNghị định này, cụ thể như sau:” theo quy định tại khoản 1 Điều 7 của Nghị định số 228/2026/NĐ-CP, có hiệu lực\nkể từ ngày 15 tháng 8 năm 2026.\n        34 Khoản này được sửa đổi, bổ sung theo quy định tại điểm a khoản 10 Điều 4 của Nghị định số\n04/2022/NĐ-CP, có hiệu lực kể từ ngày 06 tháng 01 năm 2022; được sửa đổi, bổ sung theo quy định tại khoản 2\nĐiều 7 của Nghị định số 228/2026/NĐ-CP, có hiệu lực kể từ ngày 15 tháng 8 năm 2026.\n        35 Khoản này   được sửa đổi, bổ sung   theo quy định tại  điểm b khoản 10 Điều 4     của Nghị định số\n04/2022/NĐ-CP, có hiệu lực kể từ ngày 06 tháng 01 năm 2022; được bãi bỏ theo quy định tại khoản 3 Điều 7 của\nNghị định số 228/2026/NĐ-CP, có hiệu lực kể từ ngày 15 tháng 8 năm 2026.\n        36 Khoản này được sửa đổi, bổ sung theo quy định tại điểm c khoản 10 Điều 4 của Nghị định số\n04/2022/NĐ-CP, có hiệu lực kể từ ngày 06 tháng 01 năm 2022; được sửa đổi, bổ sung theo quy định tại khoản 4\nĐiều 7 của Nghị định số 228/2026/NĐ-CP, có hiệu lực kể từ ngày 15 tháng 8 năm 2026.\n\n                                              15",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-016",
+          "so": "14a",
+          "ten": "Thẩm quyền xử phạt vi phạm hành chính của Thủ trưởng tổ",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Thẩm quyền xử phạt vi phạm hành chính của Thủ trưởng tổ chức thuộc bộ, cơ quan ngang bộ; Trưởng đoàn kiểm tra do Bộ trưởng, Thủ trưởng cơ quan ngang bộ thành lập được giao thực hiện nhiệm vụ kiểm tra trong phạm vi quản lý nhà nước về đo đạc và bản đồ của bộ, cơ quan ngang bộ; Giám đốc sở thực hiện nhiệm vụ quản lý nhà nước theo chức năng, nhiệm vụ của các sở; Trưởng đoàn kiểm tra do Thủ trưởng tổ chức thuộc bộ, cơ quan ngang bộ thành lập thực hiện nhiệm vụ quản lý nhà nước theo chức năng, nhiệm vụ của tổ chức thuộc bộ, cơ quan ngang bộ37",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Cục trưởng Cục Đo đạc, Bản đồ và Thông tin địa lý Việt Nam; Thủ trưởng tổ chức thuộc bộ, cơ quan ngang bộ được giao nhiệm vụ kiểm tra trong phạm vi quản lý nhà nước của bộ, cơ quan ngang bộ có thẩm quyền xử phạt vi phạm hành chính đối với các hành vi vi phạm hành chính trong lĩnh vực đo đạc và bản đồ quy định tại Chương II Nghị định này, cụ thể như sau: a) Phạt cảnh cáo; b) Phạt tiền đến 50.000.000 đồng; c) Tước quyền sử dụng giấy phép hoạt động đo đạc và bản đồ, chứng chỉ hành nghề đo đạc và bản đồ từ 03 tháng đến 09 tháng; d) Tịch thu tang vật, phương tiện vi phạm hành chính; đ) Áp dụng các biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 của Nghị định này.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Trưởng đoàn kiểm tra do Bộ trưởng, Thủ trưởng cơ quan ngang bộ thành lập được giao nhiệm vụ kiểm tra trong phạm vi quản lý nhà nước về đo đạc và bản đồ của bộ, cơ quan ngang bộ có thẩm quyền xử phạt vi phạm hành chính đối với các hành vi vi phạm hành chính trong lĩnh vực đo đạc và bản đồ theo quy định tại khoản 1 Điều này.",
+              "diem": []
+            },
+            {
+              "so": 3,
+              "noi_dung": "Giám đốc Sở Nông nghiệp và Môi trường và Giám đốc các sở thực hiện\nnhiệm vụ quản lý nhà nước theo chức năng, nhiệm vụ của các sở có thẩm quyền\nxử phạt vi phạm hành chính đối với các hành vi vi phạm hành chính trong lĩnh\nvực đo đạc và bản đồ quy định tại Chương II Nghị định này, cụ thể như sau:\n       a) Phạt cảnh cáo;\n       b) Phạt tiền đến 40.000.000 đồng;\n       c) Tước quyền sử dụng giấy phép hoạt động đo đạc và bản đồ, chứng chỉ\nhành nghề đo đạc và bản đồ từ 03 tháng đến 09 tháng;\n       d) Tịch thu tang vật, phương tiện vi phạm hành chính;\n       đ) Áp dụng các biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3\n\n        37 Điều này được bổ sung theo quy định tại Điều 8 của Nghị định số 228/2026/NĐ-CP, có hiệu lực kể từ\nngày 15 tháng 8 năm 2026.\n\n                                                 16\n\ncủa Nghị định này.",
+              "diem": []
+            },
+            {
+              "so": 4,
+              "noi_dung": "Trưởng đoàn kiểm tra do Cục trưởng Cục Đo đạc, Bản đồ và Thông tin địa lý Việt Nam thành lập, Trưởng đoàn kiểm tra do Thủ trưởng tổ chức thuộc bộ, cơ quan ngang bộ thành lập thực hiện nhiệm vụ quản lý nhà nước theo chức năng, nhiệm vụ của tổ chức thuộc bộ, cơ quan ngang bộ có thẩm quyền xử phạt vi phạm hành chính đối với các hành vi vi phạm hành chính trong lĩnh vực đo đạc và bản đồ theo quy định tại khoản 3 Điều này.",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-017",
+          "so": "15",
+          "ten": "38 (được bãi bỏ)",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "38 (được bãi bỏ)",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-018",
+          "so": "16",
+          "ten": "Thẩm quyền xử phạt vi phạm hành chính của Công an nhân dân39",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Thẩm quyền xử phạt vi phạm hành chính của Công an nhân dân39 Người có thẩm quyền xử phạt vi phạm hành chính của lực lượng Công an nhân dân có thẩm quyền xử phạt và áp dụng các biện pháp khắc phục hậu quả đối với các hành vi vi phạm hành chính trong lĩnh vực đo đạc và bản đồ quy định tại Chương II Nghị định này, trên địa bàn quản lý và có chức năng, nhiệm vụ được giao có quyền:",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Chiến sĩ Công an nhân dân đang thi hành công vụ có quyền: a) Phạt cảnh cáo; b) Phạt tiền đến 5.000.000 đồng; c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá 02 lần mức tiền phạt được quy định tại điểm b khoản này.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Thủ trưởng đơn vị Cảnh sát cơ động cấp đại đội có quyền:\n        a) Phạt cảnh cáo;\n        b) Phạt tiền đến 10.000.000 đồng;\n        c) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt\nquá 02 lần mức tiền phạt được quy định tại điểm b khoản này;\n        d) Áp dụng biện pháp khắc phục hậu quả quy định tại điểm a và đ khoản 3\nĐiều 3 Nghị định này.",
+              "diem": []
+            },
+            {
+              "so": 3,
+              "noi_dung": "Trưởng đồn Công an, Thủ trưởng đơn vị Cảnh sát cơ động cấp tiểu đoàn,\nThủy đội trưởng, Trưởng trạm, Đội trưởng có quyền:\n        a) Phạt cảnh cáo;\n        b) Phạt tiền đến 15.000.000 đồng;\n        c) Tước quyền sử dụng giấy phép hoạt động đo đạc và bản đồ, chứng chỉ\nhành nghề đo đạc và bản đồ từ 03 tháng đến 09 tháng;\n        d) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt\n\n        38 Điều này được bãi bỏ theo quy định tại khoản 2 Điều 17 của Nghị định số 228/2026/NĐ-CP, có hiệu\nlực kể từ ngày 15 tháng 8 năm 2026.\n        39 Điều này được sửa đổi, bổ sung theo quy định tại Điều 9 của Nghị định số 228/2026/NĐ-CP, có hiệu\nlực kể từ ngày 15 tháng 8 năm 2026.\n\n                                               17\n\nquá 02 lần mức tiền phạt được quy định tại điểm b khoản này;\n       đ) Áp dụng biện pháp khắc phục hậu quả quy định tại điểm a và đ khoản 3\nĐiều 3 Nghị định này.",
+              "diem": []
+            },
+            {
+              "so": 4,
+              "noi_dung": "Trưởng Công an cấp xã có quyền:\n       a) Phạt cảnh cáo;\n       b) Phạt tiền đến 25.000.000 đồng;\n       c) Tước quyền sử dụng giấy phép hoạt động đo đạc và bản đồ, chứng chỉ\nhành nghề đo đạc và bản đồ từ 03 tháng đến 09 tháng;\n       d) Tịch thu tang vật, phương tiện vi phạm hành chính;\n       đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị\nđịnh này.",
+              "diem": []
+            },
+            {
+              "so": 5,
+              "noi_dung": "Trưởng Công an cửa khẩu Cảng hàng không quốc tế; Trưởng phòng\nnghiệp vụ thuộc Cục An ninh chính trị nội bộ; Trưởng phòng nghiệp vụ thuộc\nCục Cảnh sát quản lý hành chính về trật tự xã hội; Trưởng phòng nghiệp vụ thuộc\nCục Cảnh sát giao thông; Trưởng phòng nghiệp vụ thuộc Cục An ninh mạng và\nphòng, chống tội phạm sử dụng công nghệ cao và Trưởng phòng Công an cấp tỉnh\ngồm: Trưởng phòng An ninh chính trị nội bộ, Trưởng phòng Cảnh sát quản lý\nhành chính về trật tự xã hội,      Trưởng phòng Cảnh sát điều tra tội phạm về trật tự\nxã hội, Trưởng phòng Cảnh sát điều tra tội phạm về tham nhũng, kinh tế, buôn\nlậu, môi trường, Trưởng phòng Cảnh sát giao thông, Trưởng phòng An ninh mạng\nvà phòng, chống tội phạm sử dụng công nghệ cao, Tr               ưởng phòng An ninh kinh\ntế, Trưởng phòng An ninh đối ngoại, Thủy đoàn trưởng có quyền:\n       a) Phạt cảnh cáo;\n       b) Phạt tiền đến 40.000.000 đồng;\n       c) Tước quyền sử dụng giấy phép hoạt động đo đạc và bản đồ, chứng chỉ\nhành nghề đo đạc và bản đồ từ 03 tháng đến 09 tháng;\n       d) Tịch thu tang vật, phương tiện vi phạm hành chính;\n       đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị\nđịnh này.",
+              "diem": []
+            },
+            {
+              "so": 6,
+              "noi_dung": "Trưởng phòng Quản lý xuất nhập cảnh thuộc Công an cấp tỉnh có quyền:\n       a) Phạt cảnh cáo;\n       b) Phạt tiền đến 40.000.000 đồng;\n       c) Tước quyền sử dụng giấy phép hoạt động đo đạc và bản đồ, chứng chỉ\nhành nghề đo đạc và bản đồ từ 03 tháng đến 09 tháng;\n       d) Tịch thu tang vật, phương tiện vi phạm hành chính;\n       đ) Trục xuất;\n\n                                               18\n\n       e) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị\nđịnh này.",
+              "diem": []
+            },
+            {
+              "so": 7,
+              "noi_dung": "Giám đốc Công an cấp tỉnh có quyền:\n       a) Phạt cảnh cáo;\n       b) Phạt tiền đến 50.000.000 đồng;\n       c) Tước quyền sử dụng giấy phép hoạt động đo đạc và bản đồ, chứng chỉ\nhành nghề đo đạc và bản đồ từ 03 tháng đến 09 tháng;\n       d) Tịch thu tang vật, phương tiện vi phạm hành chính;\n       đ) Trục xuất;\n       e) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị\nđịnh này.",
+              "diem": []
+            },
+            {
+              "so": 8,
+              "noi_dung": "Cục trưởng Cục An ninh chính trị nội bộ, Cục trưởng Cục An ninh kinh\ntế, Cục trưởng Cục Cảnh sát quản lý hành chính về trật tự xã hội, Cục trưởng Cục\nCảnh sát điều tra tội phạm về trật tự xã hội, Cục trưởng Cục Cảnh sát điều tra tội\nphạm về tham nhũng, kinh tế, buôn lậu, Cục trưởng Cục Cảnh sát giao thông, Cục\ntrưởng Cục Cảnh sát phòng, chống tội phạm về môi trường, Cục trưởng Cục An\nninh mạng và phòng, chống tội phạm sử dụng công nghệ cao, Cục trưởng Cục An\nninh nội địa có quyền:\n       a) Phạt cảnh cáo;\n       b) Phạt tiền đến 50.000.000 đồng;\n       c) Tước quyền sử dụng giấy phép hoạt động đo đạc và bản đồ, chứng chỉ\nhành nghề đo đạc và bản đồ từ 03 tháng đến 09 tháng;\n       d) Tịch thu tang vật, phương tiện vi phạm hành chính;\n       đ) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị\nđịnh này.",
+              "diem": []
+            },
+            {
+              "so": 9,
+              "noi_dung": "Cục trưởng Cục Quản lý xuất nhập cảnh có quyền:\n       a) Phạt cảnh cáo;\n       b) Phạt tiền đến 50.000.000 đồng;\n       c) Tước quyền sử dụng giấy phép hoạt động đo đạc và bản đồ, chứng chỉ\nhành nghề đo đạc và bản đồ từ 03 tháng đến 09 tháng;\n       d) Tịch thu tang vật, phương tiện vi phạm hành chính;\n       đ) Trục xuất;\n       e) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị\nđịnh này.\n\n                                                19",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-019",
+          "so": "17",
+          "ten": "Thẩm quyền xử phạt vi phạm hành chính của Bộ đội biên phòng40",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Thẩm quyền xử phạt vi phạm hành chính của Bộ đội biên phòng40\n       Người có thẩm quyền xử phạt vi phạm hành chính của Bộ đội biên phòng\ncó thẩm quyền xử phạt và áp dụng các biện pháp khắc phục hậu quả đối với hành\nvi vi phạm hành chính quy định tại điểm b khoản 1 và khoản 3 Điều 10, khoản 2\nĐiều 11, Điều 12, khoản 1 và 2 Điều 13 Nghị định này, trên địa bàn quản lý và\ntheo chức năng, nhiệm vụ, quyền hạn được giao, cụ thể như sau:",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Trạm trưởng, Đội trưởng của người được quy định tại khoản 1 Điều 9\nNghị định số 189/2025/NĐ-CP ngày 01 tháng 7 năm 2025 của Chính phủ quy\nđịnh chi tiết Luật Xử lý vi phạm hành chính về thẩm quyền xử phạt vi phạm hành\nchính có quyền:\n       a) Phạt tiền đến 5.000.000 đồng;\n       b) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt\nquá 02 lần mức tiền phạt được quy định tại điểm a khoản này;\n       c) Áp dụng biện pháp khắc phục hậu quả quy định tại điểm a và đ khoản 3\nĐiều 3 Nghị định này.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Đội trưởng Đội đặc nhiệm phòng chống ma túy và tội phạm thuộc Đoàn\nđặc nhiệm phòng chống ma túy và tội phạm có quyền:\n       a) Phạt tiền đến 7.500.000 đồng;\n       b) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt\nquá 02 lần mức tiền phạt được quy định tại điểm a khoản này;\n       c) Áp dụng biện pháp khắc phục hậu quả quy định tại điểm a và đ khoản 3\nĐiều 3 Nghị định này.",
+              "diem": []
+            },
+            {
+              "so": 3,
+              "noi_dung": "Đồn trưởng Đồn biên phòng, Hải đội trưởng Hải đội biên phòng, Chỉ huy\ntrưởng Ban chỉ huy Biên phòng Cửa khẩu cảng có quyền:\n       a) Phạt tiền đến 15.000.000 đồng;\n       b) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt\nquá 02 lần mức tiền phạt được quy định tại điểm a khoản này;\n       c) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị\nđịnh này.",
+              "diem": []
+            },
+            {
+              "so": 4,
+              "noi_dung": "Đoàn trưởng Đoàn đặc nhiệm phòng chống ma túy và tội phạm thuộc\nCục Phòng chống ma túy và tội phạm thuộc Bộ Tư lệnh Bộ đội Biên phòng có quyền:\n       a) Phạt tiền đến 25.000.000 đồng;\n       b) Tịch thu tang vật, phương tiện vi phạm hành chính;\n       c) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị\n\n        40 Điều này được sửa đổi, bổ sung theo quy định tại Điều 10 của Nghị định số 228/2026/NĐ-CP, có hiệu\nlực kể từ ngày 15 tháng 8 năm 2026.\n\n                                                20\n\nđịnh này.",
+              "diem": []
+            },
+            {
+              "so": 5,
+              "noi_dung": "Chỉ huy trưởng Ban Chỉ huy Bộ đội Biên phòng; Hải đoàn trưởng Hải\nđoàn biên phòng, Cục trưởng Cục Phòng chống ma túy và tội phạm thuộc Bộ Tư\nlệnh Bộ đội Biên phòng có quyền:\n       a) Phạt tiền đến 50.000.000 đồng;\n       b) Tịch thu tang vật, phương tiện vi phạm hành chính;\n       c) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị\nđịnh này.",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-020",
+          "so": "18",
+          "ten": "Thẩm quyền xử phạt vi phạm hành chính của Cảnh sát biển41",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Thẩm quyền xử phạt vi phạm hành chính của Cảnh sát biển41 Người có thẩm quyền xử phạt vi phạm hành chính của Cảnh sát biển có thẩm quyền xử phạt và áp dụng các biện pháp khắc phục hậu quả đối với hành vi vi phạm hành chính quy định tại khoản 1, điểm b khoản 2, khoản 3 và 4 Điều 5, khoản 2, 3 và 4 Điều 6, điểm c và d khoản 2, điểm b và d khoản 3 Điều 7, điểm b khoản 1 và khoản 3 Điều 10, khoản 1, 2 và 3 Điều 11, Điều 12, khoản 1 và 2 Điều 13 Nghị định này, trên địa bàn quản lý và theo chức năng, nhiệm vụ, quyền hạn được giao, cụ thể như sau:",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Đội trưởng Đội nghiệp vụ Cảnh sát biển, Trạm trưởng Trạm Cảnh sát\nbiển có quyền:\n       a) Phạt tiền đến 10.000.000 đồng;\n       b) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt\nquá 02 lần mức tiền phạt được quy định tại điểm a khoản này;\n       c) Áp dụng biện pháp khắc phục hậu quả quy định tại điểm a và đ khoản 3\nĐiều 3 Nghị định này.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Hải đội trưởng Hải đội Cảnh sát biển có quyền:\n       a) Phạt tiền đến 15.000.000 đồng;\n       b) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt\nquá 02 lần mức tiền phạt được quy định tại điểm a khoản này;\n       c) Áp dụng biện pháp khắc phục hậu quả quy định tại điểm a, đ, g, h và i\nkhoản 3 Điều 3 Nghị định này.",
+              "diem": []
+            },
+            {
+              "so": 3,
+              "noi_dung": "Hải đoàn trưởng Hải đoàn Cảnh sát biển, Đoàn trưởng Đoàn trinh sát,\nĐoàn trưởng Đoàn đặc nhiệm phòng chống tội phạm ma túy thuộc Cảnh sát biển\nViệt Nam có quyền:\n       a) Phạt tiền đến 25.000.000 đồng;\n       b) Tước quyền sử dụng giấy phép hoạt động đo đạc và bản đồ, chứng chỉ\n\n        41 Điều này được sửa đổi, bổ sung theo quy định tại Điều 11 của Nghị định số 228/2026/NĐ-CP, có hiệu\nlực kể từ ngày 15 tháng 8 năm 2026.\n\n                                                21\n\nhành nghề đo đạc và bản đồ từ 03 tháng đến 09 tháng;\n       c) Tịch thu tang vật, phương tiện vi phạm hành chính;\n       d) Áp dụng biện pháp khắc phục hậu quả quy định tại điểm a, đ, g, h và i\nkhoản 3 Điều 3 Nghị định này.",
+              "diem": []
+            },
+            {
+              "so": 4,
+              "noi_dung": "Tư lệnh Vùng Cảnh sát biển, Cục trưởng Cục Nghiệp vụ và Pháp luật\nthuộc Cảnh sát biển Việt Nam có quyền:\n       a) Phạt tiền đến 40.000.000 đồng;\n       b) Tước quyền sử dụng giấy phép hoạt động đo đạc và bản đồ, chứng chỉ\nhành nghề đo đạc và bản đồ từ 03 tháng đến 09 tháng;\n       c) Tịch thu tang vật, phương tiện vi phạm hành chính;\n       d) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị\nđịnh này.",
+              "diem": []
+            },
+            {
+              "so": 5,
+              "noi_dung": "Tư lệnh Cảnh sát biển Việt Nam có quyền:\n       a) Phạt tiền đến 50.000.000 đồng;\n       b) Tước quyền sử dụng giấy phép hoạt động đo đạc và bản đồ, chứng chỉ\nhành nghề đo đạc và bản đồ từ 03 tháng đến 09 tháng;\n       c) Tịch thu tang vật, phương tiện vi phạm hành chính;\n       d) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị\nđịnh này.",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-021",
+          "so": "19",
+          "ten": "Thẩm quyền xử phạt vi phạm hành chính của Hải quan42",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Thẩm quyền xử phạt vi phạm hành chính của Hải quan42 Người có thẩm quyền xử phạt vi phạm hành chính của Hải quan có thẩm quyền xử phạt và áp dụng các biện pháp khắc phục hậu quả đối với hành vi vi phạm hành chính quy định tại điểm b khoản 1 và khoản 3 Điều 10, khoản 2 Điều 11 Nghị định này, trên địa bàn quản lý và theo chức năng, nhiệm vụ, quyền hạn được giao, cụ thể như sau:",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Chi cục trưởng Chi cục Điều tra chống buôn lậu, Chi cục trưởng Chi cục Kiểm tra sau thông quan, Chi cục trưởng Chi cục Hải quan khu vực có quyền: a) Phạt tiền đến 25.000.000 đồng; b) Tịch thu tang vật, phương tiện vi phạm hành chính; c) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị định này.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Cục trưởng Cục Hải quan có quyền:\n       a) Phạt tiền đến 50.000.000 đồng;\n\n        42 Điều này được sửa đổi, bổ sung theo quy định tại Điều 12 của Nghị định số 228/2026/NĐ-CP, có hiệu\nlực kể từ ngày 15 tháng 8 năm 2026.\n\n                                                22\n        b) Tịch thu tang vật, phương tiện vi phạm hành chính;\n        c) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị\nđịnh này.",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-022",
+          "so": "20",
+          "ten": "Thẩm quyền xử phạt vi phạm hành chính của Quản lý thị trường43",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Thẩm quyền xử phạt vi phạm hành chính của Quản lý thị trường43 Người có thẩm quyền xử phạt vi phạm hành chính của Quản lý thị trường có thẩm quyền xử phạt và áp dụng các biện pháp khắc phục hậu quả đối với hành vi vi phạm hành chính quy định tại điểm b khoản 1 và khoản 3 Điều 10; khoản 1, khoản 2, khoản 3 Điều 11 Nghị định này, trên địa bàn quản lý và theo chức năng, nhiệm vụ, quyền hạn được giao, cụ thể như sau:",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Đội trưởng Đội Quản lý thị trường thuộc Chi cục Quản lý thị trường thuộc Sở Công Thương có quyền: a) Phạt tiền đến 15.000.000 đồng; b) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá 02 lần mức tiền phạt được quy định tại điểm a khoản này; c) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị định này.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Chi cục trưởng Chi cục Quản lý thị trường, Trưởng phòng Nghiệp vụ Quản lý thị trường thuộc Cục Quản lý và Phát triển thị trường trong nước có quyền: a) Phạt tiền đến 25.000.000 đồng; b) Tịch thu tang vật, phương tiện vi phạm hành chính; c) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị định này.",
+              "diem": []
+            },
+            {
+              "so": 3,
+              "noi_dung": "Cục trưởng Cục Quản lý và Phát triển thị trường trong nước có quyền: a) Phạt tiền đến 50.000.000 đồng; b) Tịch thu tang vật, phương tiện vi phạm hành chính; c) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị định này.",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-023",
+          "so": "21",
+          "ten": "Thẩm quyền xử phạt vi phạm hành chính của Cảng vụ hàng",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Thẩm quyền xử phạt vi phạm hành chính của Cảng vụ hàng\nhải, Cảng vụ hàng không, Cảng vụ đường thủy nội địa44\n        Người có thẩm quyền xử phạt vi phạm hành chính của Cảng vụ hàng hải,\nCảng vụ hàng không, Cảng vụ đường thủy nội địa có thẩm quyền xử phạt và áp\ndụng các biện pháp khắc phục hậu quả đối với hành vi vi phạm hành chính quy\nđịnh tại điểm b khoản 1 và khoản 3 Điều 10, khoản 2 Điều 11 Nghị định này, trên\n\n        43 Điều này được sửa đổi, bổ sung theo quy định tại Điều 13 của Nghị định số 228/2026/NĐ-CP, có hiệu\nlực kể từ ngày 15 tháng 8 năm 2026.\n        44 Điều này được sửa đổi, bổ sung theo quy định tại Điều 14 của Nghị định số 228/2026/NĐ-CP, có hiệu\nlực kể từ ngày 15 tháng 8 năm 2026.\n\n                                                   23\n\nđịa bàn quản lý và theo chức năng, nhiệm vụ, quyền hạn được giao, cụ thể như sau:",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Trưởng đại diện Cảng vụ hàng hải, Trưởng đại diện Cảng vụ hàng không, Trưởng đại diện Cảng vụ đường thủy nội địa có quyền: a) Phạt tiền đến 12.500.000 đồng; b) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị không vượt quá 02 lần mức tiền phạt được quy định tại điểm a khoản này; c) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị định này.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Giám đốc Cảng vụ hàng hải, Giám đốc Cảng vụ hàng không, Giám đốc Cảng vụ đường thủy nội địa có quyền: a) Phạt tiền đến 25.000.000 đồng; b) Tịch thu tang vật, phương tiện vi phạm hành chính; c) Áp dụng biện pháp khắc phục hậu quả quy định tại khoản 3 Điều 3 Nghị định này.",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-024",
+          "so": "22",
+          "ten": "45 (được bãi bỏ)",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "45 (được bãi bỏ)",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-025",
+          "so": "23",
+          "ten": "Thẩm quyền lập biên bản vi phạm hành chính",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Thẩm quyền lập biên bản vi phạm hành chính Người có thẩm quyền lập biên bản vi phạm hành chính trong lĩnh vực đo đạc và bản đồ gồm: 1.46 Người có thẩm quyền xử phạt vi phạm hành chính quy định tại Chương III Nghị định này có thẩm quyền lập biên bản vi phạm hành chính đối với các hành vi thuộc lĩnh vực, phạm vi quản lý quy định tại Nghị định này. 2.47 Công chức; viên chức; người thuộc lực lượng Công an nhân dân, Quân đội nhân dân đang thi hành công vụ, nhiệm vụ theo chức năng, nhiệm vụ được giao thanh tra, kiểm tra trong lĩnh vực đo đạc và bản đồ.",
+              "diem": []
+            },
+            {
+              "so": 3,
+              "noi_dung": "Chỉ huy tàu bay, thuyền trưởng, trưởng tàu và những người được chỉ huy tàu bay, thuyền trưởng, trưởng tàu giao nhiệm vụ lập biên bản.",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-026",
+          "so": "23a",
+          "ten": "Xử lý vi phạm hành chính trên môi trường điện tử48",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Xử lý vi phạm hành chính trên môi trường điện tử48\n         Việc xử lý vi phạm hành chính trong lĩnh vực đo đạc và bản đồ trên môi\ntrường điện tử được thực hiện theo quy định tại Điều 18a Luật Xử lý vi phạm\nhành chính; Điều 28a và Điều 28b Nghị định số 118/2021/NĐ-CP ngày 23 tháng\n\n        45 Điều này được bãi bỏ theo quy định tại khoản 2 Điều 17 của Nghị định số 228/2026/NĐ-CP, có hiệu\nlực kể từ ngày 15 tháng 8 năm 2026.\n         46 Khoản này được sửa đổi, bổ sung theo quy định tại Điều 15 của Nghị định số 228/2026/NĐ-CP, có\nhiệu lực kể từ ngày 15 tháng 8 năm 2026.\n        47 Khoản này được sửa đổi, bổ sung theo quy định tại khoản 19 Điều 4 của Nghị định số 04/2022/NĐ-CP,\ncó hiệu lực kể từ ngày 06 tháng 01 năm 2022; được sửa đổi, bổ sung theo quy định tại Điều 15 của Nghị định số\n228/2026/NĐ-CP, có hiệu lực kể từ ngày 15 tháng 8 năm 2026.\n         48 Điều này được bổ sung theo quy định tại Điều 16 của Nghị định số 228/2026/NĐ-CP, có hiệu lực kể\ntừ ngày 15 tháng 8 năm 2026.\n\n                                                        24\n\n12 năm 2021 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành\nLuật Xử lý vi phạm hành chính được sửa đổi, bổ sung một số điều bởi Nghị định\nsố 190/2025/NĐ-CP ngày 01 tháng 7 năm 2025 của Chính phủ.\n\n                                                 Chương IV\n                                   ĐIỀU KHOẢN THI HÀNH49",
+              "diem": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "loai": "chuong",
+      "so": "IV",
+      "ten": "ĐIỀU KHOẢN THI HÀNH49",
+      "muc": [],
+      "dieu": [
+        {
+          "id": "d-027",
+          "so": "24",
+          "ten": "Hiệu lực thi hành",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Hiệu lực thi hành",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Nghị định này có hiệu lực thi hành kể từ ngày 01 tháng 04 năm 2020.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Nghị định này bãi bỏ khoản 3 Điều 1                    , Chương 3 và cụm từ \"đo đạc và\nbản đồ\" tại tên Nghị định, căn cứ ban hành, tên Chương 4, tại khoản 1 Điều 1,                                   tại\nĐiều 2, khoản 1 Điều 3, điểm a khoản 1 Điều 20 của Nghị địn                             h số 173/2013/NĐ-\nCP ngày 13 tháng 11 năm 2013                   của Chính phủ quy định xử phạt                   vi phạm hành\nchính trong lĩnh vực khí tượng thủ               y văn, đo đạc và bản đồ; bãi bỏ cụm từ \"đo đạc\nvà bản đồ\" tại Nghị định số 84/2017/NĐ                       -CP ngày 18 tháng 07              năm 2017 của\nChính phủ sửa đổi, bổ sung một số điều của Nghị định số 173/2013/NĐ-CP ngày\n13 tháng 11 năm 2013 của C                hính phủ quy định về xử              phạt vi phạm hành chính\ntrong lĩnh vực khí tượng thủy văn, đo đạc và bản đồ.",
+              "diem": []
+            }
+          ]
+        },
+        {
+          "id": "d-028",
+          "so": "25",
+          "ten": "Điều khoản chuyển tiếp",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Điều khoản chuyển tiếp",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Những hành vi vi phạm xảy ra trước khi Nghị định này có hiệu lực thi hành nhưng chưa bị xử phạt mà đang được xem xét, giải quyết hoặc sau khi Nghị định này có hiệu lực thi hành mới bị phát hiện thì áp dụng theo quy định tại Nghị định số 173/2013/NĐ-CP và Nghị định số 84/2017/NĐ-CP để xử phạt. Trường 49 Điều 5 của Nghị định số 04/2022/NĐ-CP, có hiệu lực kể từ ngày 06 tháng 01 năm 2022 quy định như sau: “Điều 5. Điều khoản thi hành",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Nghị định này có hiệu lực từ ngày 06 tháng 01 năm 2022.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Điều khoản chuyển tiếp: Đối với hành vi vi phạm hành chính trong các lĩnh vực đất đai, tài nguyên nước, khoáng sản, khí tượng thủy văn, đo đạc và bản đồ quy định tại Nghị định này xảy ra trước thời điểm Nghị định này có hiệu lực mà sau đó mới bị phát hiện hoặc đang xem xét, giải quyết thì áp dụng Nghị định của Chính phủ về xử phạt vi phạm hành chính có hiệu lực tại thời điểm thực hiện hành vi vi phạm để xử lý. Trường hợp Nghị định này không quy định trách nhiệm pháp lý hoặc quy định trách nhiệm pháp lý nhẹ hơn đối với hành vi đã xảy ra thì áp dụng các quy định Nghị định này để xử lý.",
+              "diem": []
+            },
+            {
+              "so": 3,
+              "noi_dung": "Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban\nnhân dân tỉnh, thành phố trực thuộc trung ương chịu trách nhiệm hướng dẫn và thi hành Nghị định này.”.\n         Điều 18, Điều 19 của Nghị định số 228/2026/NĐ-CP, có hiệu lực kể từ ngày 15 tháng 8 năm 2026 quy\nđịnh như sau:\n         “Điều 18. Điều khoản thi hành\n         Nghị định này có hiệu lực thi hành từ ngày 15 tháng 8 năm 2026.",
+              "diem": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "loai": "chuong",
+      "so": "III",
+      "ten": "THẨM QUYỀN XỬ PHẠT VI PHẠM HÀNH CHÍNH,",
+      "muc": [],
+      "dieu": [
+        {
+          "id": "d-029-xen-1",
+          "so": "19",
+          "ten": "Điều khoản chuyển tiếp",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Điều khoản chuyển tiếp",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Đối với hành vi vi phạm hành chính trong lĩnh vực đo đạc và bản đồ xảy ra và kết thúc trước thời điểm Nghị định này có hiệu lực mà sau đó mới bị phát hiện hoặc đang xem xét, giải quyết tại thời điểm Nghị định này đã có hiệu lực thì áp dụng Nghị định số 18/2020/NĐ-CP ngày 11 tháng 02 năm 2020 của Chính phủ xử phạt vi phạm hành chính trong lĩnh vực đo đạc và bản đồ được sửa đổi, bổ sung bởi Nghị định số 04/2022/NĐ-CP để xử lý.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Đối với hành vi vi phạm trong lĩnh vực đo đạc và bản đồ xảy ra trước thời điểm Nghị định này có hiệu\nlực thi hành nhưng vẫn đang diễn ra khi Nghị định này đã có hiệu lực thì áp dụng quy định của Nghị định này để\nxử lý.”.\n\n                                                                        25\n\n                    hợp các quy định về xử phạt tại Nghị định này có lợi cho tổ chức, cá nhân thì áp\n                    dụng quy định tại Nghị định này để xử phạt.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Hành vi vi phạm đã có quyết định xử phạt có hiệu lực thi hành nhưng chưa chấp hành hoặc chấp hành chưa xong thì thi hành theo quyết định xử phạt trước đó.",
+              "diem": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "loai": "chuong",
+      "so": "IV",
+      "ten": "ĐIỀU KHOẢN THI HÀNH49",
+      "muc": [],
+      "dieu": [
+        {
+          "id": "d-030",
+          "so": "26",
+          "ten": "Trách nhiệm thi hành",
+          "nguon": null,
+          "khoan": [
+            {
+              "so": null,
+              "noi_dung": "Trách nhiệm thi hành",
+              "diem": []
+            },
+            {
+              "so": 1,
+              "noi_dung": "Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương, các cơ quan, tổ chức và cá nhân liên quan chịu trách nhiệm thi hành Nghị định này.",
+              "diem": []
+            },
+            {
+              "so": 2,
+              "noi_dung": "Bộ trưởng Bộ Nông nghiệp và Môi trường50 trong phạm vi chức năng, nhiệm vụ của mình có trách nhiệm tổ chức và hướng dẫn thi hành Nghị định này./. BỘ NÔNG NGHIỆP VÀ MÔI TRƯỜNG XÁC THỰC VĂN BẢN HỢP NHẤT Hà Nội, ngày tháng năm 2026 Nơi nhận: KT. BỘ TRƯỞNG - Văn phòng Chính phủ (để đăng Công báo); THỨ TRƯỞNG - Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - UBND các tỉnh, thành phố trực thuộc trung ương; - Sở NN&MT các tỉnh, thành phố trực thuộc trung ương; - Bộ trưởng Bộ NN&MT (để báo cáo); - Các Thứ trưởng Bộ NN&MT; - Vụ Pháp chế (để đăng trên Cơ sở dữ liệu quốc gia về pháp luật); - Văn phòng Bộ (để đăng trên Cổng thông tin điện tử của Bộ NN&MT); Nguyễn Thị Phương Hoa - Các đơn vị trực thuộc Bộ NN&MT; - Lưu: VT, ĐĐBĐ. 50 Cụm từ “Bộ Tài nguyên và Môi trường” được thay thế bởi cụm từ “Bộ Nông nghiệp và Môi trường” theo quy định tại khoản 1 Điều 17 của Nghị định số 228/2026/NĐ-CP, có hiệu lực kể từ ngày 15 tháng 8 năm 2026.",
+              "diem": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "noi_dung_tu_do": null,
+  "phu_luc": [],
+  "chu_thich": [
+    {
+      "so": 50,
+      "noi_dung": "Cụm từ “Bộ Tài nguyên và Môi trường” được thay thế bởi cụm từ “Bộ Nông nghiệp và Môi trường” theo quy định tại khoản 1 Điều 17 của Nghị định số 228/2026/NĐ-CP, có hiệu lực kể từ ngày 15 tháng 8 năm 2026."
+    }
+  ],
+  "lien_quan": [],
+  "nguon_file": [
+    "VBHN 72-2026-VBHN-NĐ-BNNMT (20-07-2026) - NĐ xử phạt VPHC lĩnh vực đo đạc và bản đồ (bản ký số).pdf"
+  ],
+  "sha256": [
+    "242672eeb7ccefdede195ea3d893d60ded5763326ea366173ebaa2cdd74b078b"
+  ],
+  "pdf_id": "vbhn-72-2026-vbhn-nd-bnnmt",
+  "xac_minh": false
+}
