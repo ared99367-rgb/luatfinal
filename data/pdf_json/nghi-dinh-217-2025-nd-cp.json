@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "id": "nghi-dinh-217-2025-nd-cp",
+  "title": "Nghị định về hoạt động kiểm tra chuyên ngành",
+  "document_number": "217/2025/NĐ-CP",
+  "document_type": "nghi_dinh",
+  "year": 2025,
+  "source_pdf": "data/pdf/nghi-dinh-217-2025-nd-cp.pdf",
+  "pdf_metadata": {
+    "Producer": "Kodak Alaris Inc.     ; modified using iTextSharp™ 5.5.5 ©2000-2014 iText Group NV (AGPL-version)",
+    "Title": "2025-08-06 (1)",
+    "CreationDate": "D:20250806113621+07'00'",
+    "ModDate": "D:20250806114204+07'00'",
+    "Creator": "Smart Touch 1.9     "
+  },
+  "extraction": {
+    "method": "pypdf",
+    "ocr_performed": false,
+    "status": "needs_ocr",
+    "pages_total": 10,
+    "pages_with_text": 0,
+    "characters_extracted": 0,
+    "ocr_required": true,
+    "errors": []
+  },
+  "pages": [
+    {
+      "page": 1,
+      "text": ""
+    },
+    {
+      "page": 2,
+      "text": ""
+    },
+    {
+      "page": 3,
+      "text": ""
+    },
+    {
+      "page": 4,
+      "text": ""
+    },
+    {
+      "page": 5,
+      "text": ""
+    },
+    {
+      "page": 6,
+      "text": ""
+    },
+    {
+      "page": 7,
+      "text": ""
+    },
+    {
+      "page": 8,
+      "text": ""
+    },
+    {
+      "page": 9,
+      "text": ""
+    },
+    {
+      "page": 10,
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "id": "cong-van-4333-snnmt-ccqldd-2026",
+  "title": "Công văn trả lời về bản đồ địa hình phục vụ quy hoạch đô thị, nông thôn",
+  "document_number": null,
+  "document_type": "cong_van",
+  "year": 2026,
+  "source_pdf": "data/pdf/cong-van-4333-snnmt-ccqldd-2026.pdf",
+  "pdf_metadata": {
+    "ModDate": "D:20260624161407+07'00'",
+    "Producer": "KONICA MINOLTA bizhub 368e; modified using iText® Core 7.2.3 (AGPL version) ©2000-2022 iText Group NV; modified using iText® Core 7.2.3 (AGPL version) ©2000-2022 iText Group NV; modified using iText® Core 7.2.3 (AGPL version) ©2000-2022 iText Group NV",
+    "Title": "SKM_368e26051104280",
+    "Creator": "KM_368e",
+    "CreationDate": "D:20260511042819Z"
+  },
+  "extraction": {
+    "method": "pypdf",
+    "ocr_performed": false,
+    "status": "needs_ocr",
+    "pages_total": 4,
+    "pages_with_text": 0,
+    "characters_extracted": 0,
+    "ocr_required": true,
+    "errors": []
+  },
+  "pages": [
+    {
+      "page": 1,
+      "text": ""
+    },
+    {
+      "page": 2,
+      "text": ""
+    },
+    {
+      "page": 3,
+      "text": ""
+    },
+    {
+      "page": 4,
+      "text": ""
+    }
+  ]
+}

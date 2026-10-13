@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "id": "nghi-dinh-18-2020-nd-cp",
+  "title": "Nghị định xử phạt vi phạm hành chính trong lĩnh vực đo đạc và bản đồ",
+  "document_number": "18/2020/NĐ-CP",
+  "document_type": "nghi_dinh",
+  "year": 2020,
+  "source_pdf": "data/pdf/nghi-dinh-18-2020-nd-cp.pdf",
+  "pdf_metadata": {
+    "Producer": "Kodak Alaris Inc.     ; modified using VGCA.Base 5.2.1 (c) 1T3XT BVBA",
+    "Title": "2020-02-12 (1)",
+    "CreationDate": "D:20200212154632+07'00'",
+    "ModDate": "D:20200212154725+07'00'",
+    "Creator": "Smart Touch 1.8     "
+  },
+  "extraction": {
+    "method": "pypdf",
+    "ocr_performed": false,
+    "status": "needs_ocr",
+    "pages_total": 21,
+    "pages_with_text": 0,
+    "characters_extracted": 0,
+    "ocr_required": true,
+    "errors": []
+  },
+  "pages": [
+    {
+      "page": 1,
+      "text": ""
+    },
+    {
+      "page": 2,
+      "text": ""
+    },
+    {
+      "page": 3,
+      "text": ""
+    },
+    {
+      "page": 4,
+      "text": ""
+    },
+    {
+      "page": 5,
+      "text": ""
+    },
+    {
+      "page": 6,
+      "text": ""
+    },
+    {
+      "page": 7,
+      "text": ""
+    },
+    {
+      "page": 8,
+      "text": ""
+    },
+    {
+      "page": 9,
+      "text": ""
+    },
+    {
+      "page": 10,
+      "text": ""
+    },
+    {
+      "page": 11,
+      "text": ""
+    },
+    {
+      "page": 12,
+      "text": ""
+    },
+    {
+      "page": 13,
+      "text": ""
+    },
+    {
+      "page": 14,
+      "text": ""
+    },
+    {
+      "page": 15,
+      "text": ""
+    },
+    {
+      "page": 16,
+      "text": ""
+    },
+    {
+      "page": 17,
+      "text": ""
+    },
+    {
+      "page": 18,
+      "text": ""
+    },
+    {
+      "page": 19,
+      "text": ""
+    },
+    {
+      "page": 20,
+      "text": ""
+    },
+    {
+      "page": 21,
+      "text": ""
+    }
+  ]
+}

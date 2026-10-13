@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "source_directory": "data/pdf",
+  "json_directory": "data/pdf_json",
+  "files": [
+    {
+      "id": "cong-van-1377-tcqldd-cdkdd-2020",
+      "title": "đo đạc, lập bản đồ địa chính phục vụ công tác GPMB Dự án giao thông",
+      "source_pdf": "data/pdf/cong-van-1377-tcqldd-cdkdd-2020.pdf",
+      "json_file": "data/pdf_json/cong-van-1377-tcqldd-cdkdd-2020.json",
+      "status": "complete",
+      "pages_total": 2,
+      "pages_with_text": 2,
+      "ocr_required": false
+    },
+    {
+      "id": "cong-van-1648-ddbd-khtc-2025",
+      "title": "thẩm định phạm vi, giải pháp kỹ thuật công nghệ đối với các dự án, nhiệm vụ đo đạc và bản đồ cơ bản",
+      "source_pdf": "data/pdf/cong-van-1648-ddbd-khtc-2025.pdf",
+      "json_file": "data/pdf_json/cong-van-1648-ddbd-khtc-2025.json",
+      "status": "complete",
+      "pages_total": 1,
+      "pages_with_text": 1,
+      "ocr_required": false
+    },
+    {
+      "id": "cong-van-281-qldd-vp-2026",
+      "title": "thẩm quyền ban hành “cơ chế giám sát, đánh giá, kiểm định chất lượng và quy chế kiểm tra, nghiệm thu sản phẩm, dịch vụ công trong lĩnh vực quản lý đất đai” thuộc phạm vi quản lý của địa phương",
+      "source_pdf": "data/pdf/cong-van-281-qldd-vp-2026.pdf",
+      "json_file": "data/pdf_json/cong-van-281-qldd-vp-2026.json",
+      "status": "complete",
+      "pages_total": 1,
+      "pages_with_text": 1,
+      "ocr_required": false
+    },
+    {
+      "id": "cong-van-4333-snnmt-ccqldd-2026",
+      "title": "Công văn trả lời về bản đồ địa hình phục vụ quy hoạch đô thị, nông thôn",
+      "source_pdf": "data/pdf/cong-van-4333-snnmt-ccqldd-2026.pdf",
+      "json_file": "data/pdf_json/cong-van-4333-snnmt-ccqldd-2026.json",
+      "status": "needs_ocr",
+      "pages_total": 4,
+      "pages_with_text": 0,
+      "ocr_required": true
+    },
+    {
+      "id": "cong-van-912-ddbdvn-cspc-2025",
+      "title": "sử dụng giấy phép hoạt động đo đạc và bản đồ sau khi thực hiện chia, tách, hợp nhất, sáp nhập",
+      "source_pdf": "data/pdf/cong-van-912-ddbdvn-cspc-2025.pdf",
+      "json_file": "data/pdf_json/cong-van-912-ddbdvn-cspc-2025.json",
+      "status": "complete",
+      "pages_total": 2,
+      "pages_with_text": 2,
+      "ocr_required": false
+    },
+    {
+      "id": "cong-van-9353-btnmt-dd-2024",
+      "title": "thực hiện cơ chế giám sát, đánh giá, kiểm định chất lượng và quy chế kiểm tra, nghiệm thu sản phẩm, dịch vụ công",
+      "source_pdf": "data/pdf/cong-van-9353-btnmt-dd-2024.pdf",
+      "json_file": "data/pdf_json/cong-van-9353-btnmt-dd-2024.json",
+      "status": "complete",
+      "pages_total": 1,
+      "pages_with_text": 1,
+      "ocr_required": false
+    },
+    {
+      "id": "luat-146-2025-qh15",
+      "title": "Luật sửa đổi, bổ sung một số điều của 15 luật trong lĩnh vực nông nghiệp và môi trường",
+      "source_pdf": "data/pdf/luat-146-2025-qh15.pdf",
+      "json_file": "data/pdf_json/luat-146-2025-qh15.json",
+      "status": "needs_ocr",
+      "pages_total": 79,
+      "pages_with_text": 0,
+      "ocr_required": true
+    },
+    {
+      "id": "luat-27-2018-qh14",
+      "title": "Luật ĐO ĐẠC VÀ BẢN ĐỒ",
+      "source_pdf": "data/pdf/luat-27-2018-qh14.pdf",
+      "json_file": "data/pdf_json/luat-27-2018-qh14.json",
+      "status": "complete",
+      "pages_total": 36,
+      "pages_with_text": 36,
+      "ocr_required": false
+    },
+    {
+      "id": "nghi-dinh-04-2022-nd-cp",
+      "title": "Nghị định sửa đổi các nghị định về xử phạt vi phạm hành chính trong lĩnh vực đất đai, tài nguyên nước, khoáng sản, khí tượng thủy văn, đo đạc và bản đồ",
+      "source_pdf": "data/pdf/nghi-dinh-04-2022-nd-cp.pdf",
+      "json_file": "data/pdf_json/nghi-dinh-04-2022-nd-cp.json",
+      "status": "needs_ocr",
+      "pages_total": 57,
+      "pages_with_text": 0,
+      "ocr_required": true
+    },
+    {
+      "id": "nghi-dinh-136-2021-nd-cp",
+      "title": "Nghị định sửa đổi, bổ sung một số điều của Nghị định số 27/2019/NĐ-CP",
+      "source_pdf": "data/pdf/nghi-dinh-136-2021-nd-cp.pdf",
+      "json_file": "data/pdf_json/nghi-dinh-136-2021-nd-cp.json",
+      "status": "needs_ocr",
+      "pages_total": 46,
+      "pages_with_text": 0,
+      "ocr_required": true
+    },
+    {
+      "id": "nghi-dinh-18-2020-nd-cp",
+      "title": "Nghị định xử phạt vi phạm hành chính trong lĩnh vực đo đạc và bản đồ",
+      "source_pdf": "data/pdf/nghi-dinh-18-2020-nd-cp.pdf",
+      "json_file": "data/pdf_json/nghi-dinh-18-2020-nd-cp.json",
+      "status": "needs_ocr",
+      "pages_total": 21,
+      "pages_with_text": 0,
+      "ocr_required": true
+    },
+    {
+      "id": "nghi-dinh-217-2025-nd-cp",
+      "title": "Nghị định về hoạt động kiểm tra chuyên ngành",
+      "source_pdf": "data/pdf/nghi-dinh-217-2025-nd-cp.pdf",
+      "json_file": "data/pdf_json/nghi-dinh-217-2025-nd-cp.json",
+      "status": "needs_ocr",
+      "pages_total": 10,
+      "pages_with_text": 0,
+      "ocr_required": true
+    },
+    {
+      "id": "nghi-dinh-228-2026-nd-cp",
+      "title": "Nghị định sửa đổi, bổ sung một số điều của Nghị định số 18/2020/NĐ-CP",
+      "source_pdf": "data/pdf/nghi-dinh-228-2026-nd-cp.pdf",
+      "json_file": "data/pdf_json/nghi-dinh-228-2026-nd-cp.json",
+      "status": "needs_ocr",
+      "pages_total": 15,
+      "pages_with_text": 0,
+      "ocr_required": true
+    },
+    {
+      "id": "nghi-dinh-27-2019-nd-cp",
+      "title": "Nghị định quy định chi tiết một số điều của Luật Đo đạc và bản đồ",
+      "source_pdf": "data/pdf/nghi-dinh-27-2019-nd-cp.pdf",
+      "json_file": "data/pdf_json/nghi-dinh-27-2019-nd-cp.json",
+      "status": "needs_ocr",
+      "pages_total": 74,
+      "pages_with_text": 0,
+      "ocr_required": true
+    },
+    {
+      "id": "nghi-dinh-39-2026-noi-dung-chinh",
+      "title": "Nghị định Sửa đổi, bổ sung một số điều của Nghị định số 27/2019/NĐ-CP ngày 13 tháng 3 năm 2019 của Chính phủ quy định chi tiết một số điều của Luật Đo đạc và bản đồ được sửa đổi, bổ sung bởi Nghị định số 136/2021/NĐ-CP ngày 31 tháng 12 năm 2021 của Chính phủ và Nghị định số 22/2023/NĐ-CP ngày 12 tháng 5 năm 2023 của Chính phủ — Nội dung chính",
+      "source_pdf": "data/pdf/nghi-dinh-39-2026-noi-dung-chinh.pdf",
+      "json_file": "data/pdf_json/nghi-dinh-39-2026-noi-dung-chinh.json",
+      "status": "complete",
+      "pages_total": 6,
+      "pages_with_text": 6,
+      "ocr_required": false
+    },
+    {
+      "id": "nghi-dinh-39-2026-phu-luc-ban-co-dau",
+      "title": "Nghị định Sửa đổi, bổ sung một số điều của Nghị định số 27/2019/NĐ-CP ngày 13 tháng 3 năm 2019 của Chính phủ quy định chi tiết một số điều của Luật Đo đạc và bản đồ được sửa đổi, bổ sung bởi Nghị định số 136/2021/NĐ-CP ngày 31 tháng 12 năm 2021 của Chính phủ và Nghị định số 22/2023/NĐ-CP ngày 12 tháng 5 năm 2023 của Chính phủ — Phụ lục, bản có dấu (scan)",
+      "source_pdf": "data/pdf/nghi-dinh-39-2026-phu-luc-ban-co-dau.pdf",
+      "json_file": "data/pdf_json/nghi-dinh-39-2026-phu-luc-ban-co-dau.json",
+      "status": "needs_ocr",
+      "pages_total": 27,
+      "pages_with_text": 0,
+      "ocr_required": true
+    },
+    {
+      "id": "nghi-dinh-39-2026-phu-luc-ky-so",
+      "title": "Nghị định Sửa đổi, bổ sung một số điều của Nghị định số 27/2019/NĐ-CP ngày 13 tháng 3 năm 2019 của Chính phủ quy định chi tiết một số điều của Luật Đo đạc và bản đồ được sửa đổi, bổ sung bởi Nghị định số 136/2021/NĐ-CP ngày 31 tháng 12 năm 2021 của Chính phủ và Nghị định số 22/2023/NĐ-CP ngày 12 tháng 5 năm 2023 của Chính phủ — Phụ lục I, IA, II (bản ký số)",
+      "source_pdf": "data/pdf/nghi-dinh-39-2026-phu-luc-ky-so.pdf",
+      "json_file": "data/pdf_json/nghi-dinh-39-2026-phu-luc-ky-so.json",
+      "status": "complete",
+      "pages_total": 28,
+      "pages_with_text": 28,
+      "ocr_required": false
+    },
+    {
+      "id": "thong-bao-20-tb-ddbdvn-2025",
+      "title": "Về việc cập nhật địa chỉ theo đơn vị hành chính mới của Chính quyền địa phương 02 cấp trên giấy phép hoạt động đo đạc và bản đồ cấp trước ngày 1/7/2025",
+      "source_pdf": "data/pdf/thong-bao-20-tb-ddbdvn-2025.pdf",
+      "json_file": "data/pdf_json/thong-bao-20-tb-ddbdvn-2025.json",
+      "status": "complete",
+      "pages_total": 1,
+      "pages_with_text": 1,
+      "ocr_required": false
+    },
+    {
+      "id": "thong-tu-14-2019-tt-btnmt",
+      "title": "Thông tư ban hành định mức kinh tế - kỹ thuật đo đạc trực tiếp thành lập bản đồ địa hình",
+      "source_pdf": "data/pdf/thong-tu-14-2019-tt-btnmt.pdf",
+      "json_file": "data/pdf_json/thong-tu-14-2019-tt-btnmt.json",
+      "status": "needs_ocr",
+      "pages_total": 52,
+      "pages_with_text": 0,
+      "ocr_required": true
+    },
+    {
+      "id": "vbhn-22-vbhn-bnnmt-2026",
+      "title": "Quy định chi tiết một số điều của Luật Đo đạc và bản đồ",
+      "source_pdf": "data/pdf/vbhn-22-vbhn-bnnmt-2026.pdf",
+      "json_file": "data/pdf_json/vbhn-22-vbhn-bnnmt-2026.json",
+      "status": "complete",
+      "pages_total": 103,
+      "pages_with_text": 103,
+      "ocr_required": false
+    },
+    {
+      "id": "vbhn-34-vbhn-bnnmt-2025",
+      "title": "Quy định kỹ thuật về đo đạc lập bản đồ địa chính",
+      "source_pdf": "data/pdf/vbhn-34-vbhn-bnnmt-2025.pdf",
+      "json_file": "data/pdf_json/vbhn-34-vbhn-bnnmt-2025.json",
+      "status": "complete",
+      "pages_total": 111,
+      "pages_with_text": 111,
+      "ocr_required": false
+    },
+    {
+      "id": "vbhn-72-2026-vbhn-nd-bnnmt",
+      "title": "Xử phạt vi phạm hành chính trong lĩnh vực đo đạc và bản đồ",
+      "source_pdf": "data/pdf/vbhn-72-2026-vbhn-nd-bnnmt.pdf",
+      "json_file": "data/pdf_json/vbhn-72-2026-vbhn-nd-bnnmt.json",
+      "status": "complete",
+      "pages_total": 25,
+      "pages_with_text": 25,
+      "ocr_required": false
+    }
+  ]
+}
